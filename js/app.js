@@ -28,3 +28,5 @@ function xhrHandler() {
         xhr.send();
     })
 }
+
+// Проект успещно завершен
